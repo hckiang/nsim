@@ -26,6 +26,8 @@ You need `qt5-devel` and [xcb-imdkit](https://gitlab.com/fcitx/xcb-imdkit)
 to be able to compile the program. The latter is not included in most Linux
 distributions' package managers, so you will need to install it manually.
 
+*Important: You should use the latest version of `xcb-imdkit` or `nsim` may
+crash. This is due to the bug fixed in [this commit](https://gitlab.com/fcitx/xcb-imdkit/commit/4a04ba78c51fba58594e22997bff252590083597). Any versions later than this commit are fine.*
 
 # Compiling and Installing
 
