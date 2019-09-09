@@ -1,0 +1,7 @@
+*.o
+.qmake.*
+*#*
+moc*.cpp
+moc*.c
+moc*.hpp
+moc*.h
