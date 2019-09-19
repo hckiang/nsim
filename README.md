@@ -52,6 +52,9 @@ export QT_IM_MODULE="xim"
 export XMODIFIERS="@im=nsim"
 ```
 
-Use `Ctrl-space` to toggle it. Note that it currently doesn't work without a keypad.
+Use `Ctrl-space` to toggle it. Note that it currently doesn't work on laptops without a keypad.
 If your laptop does not have a keypad, how about help adding alternative keybindings? :)
 
+# TODO
+
+Add Qt5 support.
