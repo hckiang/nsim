@@ -15,9 +15,11 @@ schools, and the company has been ignoring Linux users for 20+
 years despite our requests.
 
 If you are from the company and want me to take down this repo, please tell me
-which patent I am infringing, or any legal reasons that I should. I will be
-happy to take this down if it is convincing – and please consider releasing a
-Linux version and *take your bug report emails seriously*.
+which patent I am infringing, or any legal reasons that I should. This software
+is published in Sweden, not in Hong Kong. I will be happy to take this down if
+your reason is convincing – and please consider releasing a Linux version and *take your
+bug report emails seriously*. If you sell a Linux version and it works (unlike
+the Android version which crashes often) then I will consider buying.
 
 
 # Prerequisites
